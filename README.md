@@ -1,1 +1,3 @@
-angular-auto-validate
+Example for angular-auto-validate
+with
+http://jonsamwell.github.io/angular-auto-validate/
